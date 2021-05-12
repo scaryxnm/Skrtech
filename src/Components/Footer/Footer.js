@@ -62,7 +62,7 @@ function Footer() {
               <i class="fas fa-user-astronaut" />
             </Link>
           </div>
-          <small class="website-rights">TRVL © 2020</small>
+          <small class="website-rights">СКРТЭЧ © 2021</small>
           <div class="social-icons">
             <Link
               class="social-icon-link facebook"
